@@ -1,6 +1,0 @@
-  
-theme: jekyll-theme-tactile
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-redirect-from
