@@ -1,3 +1,3 @@
 # Curso Redes Neuronales
-Libretas del curso de redes neuronales de la universidad de sonora impartido por el Dr. Julio Waissman
+Libretas de evaluación continua del curso de redes neuronales de la Universidad de Sonora impartido por el Dr. Julio Waissman
 
